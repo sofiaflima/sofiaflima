@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Eu sou Sofia Lima</h1>
-<h3 align="center">Graduada em Estatística, criei essa conta para praticar (e evoluir!) meus conhecimentos na área. Seja bem-vindo(a)!</h3>
+<h3 align="center">Graduada em Estatística, criei essa conta para praticar (e evoluir) meus conhecimentos na área. Seja bem-vindo(a)!</h3>
 
 - Atualmente estou trabalhando como Data Scientist Trainee na **Vetta Tecnologia - SMS Group**
 
